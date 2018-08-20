@@ -26,8 +26,8 @@ class App extends Component {
       });
     });
 
-    const pusher = new Pusher('541b0b21302a74ac42c3', {
-      cluster: 'eu',
+    const pusher = new Pusher('<your app key>', {
+      cluster: '<your app cluster>',
       encrypted: true,
     });
 
