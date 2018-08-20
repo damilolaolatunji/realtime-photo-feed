@@ -1,4 +1,4 @@
-# Realtime bar chart with D3.js and Pusher
+# Realtime Photo Feed
 
 Demo of a realtime photo feed with React, Cloudinary and Pusher.
 
