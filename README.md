@@ -1,6 +1,6 @@
 # Realtime Photo Feed
 
-Demo of a realtime photo feed with React, Cloudinary and Pusher.
+Demo of a realtime photo feed with React, Cloudinary and Pusher. Tutorial: https://pusher.com/tutorials/live-feed-react-cloudinary
 
 ## Getting Started
 
